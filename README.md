@@ -1,2 +1,2 @@
 # Myprojects
-M. D. student projects concerning genomics and bioinformatics. No pro stuff here!
+M. D. student projects. No pro stuff here!
